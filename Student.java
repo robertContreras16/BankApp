@@ -1,7 +1,3 @@
-
-// I'm not entirely sure why this was imported...
-import java.lang.String;
-
 // Import DateFormat class for use with SimpleDateFormat
 import java.text.DateFormat;
 
