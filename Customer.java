@@ -1,10 +1,3 @@
-//********************************************************************************
-//REMEMBER TO UPDATE YOUR STUDENT CREDENTIALS BEFORE SUBMITTING ONLINE
-//********************************************************************************
-// Student Name:      Robert Contreras
-// Program Name:      Customer Class
-// Date:              11/11/2015
-// Class and Section: IS 2041 Sec # 001
 
 // Import Date class for use in setting dates of birth
 import java.util.Date;

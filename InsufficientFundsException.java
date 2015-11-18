@@ -1,8 +1,3 @@
-// Student Name:      Robert Contreras
-// Program Name:      InsufficientFundsException Class
-// Date:              11/11/2015
-// Class and Section: IS 2041 Sec # 001
-
 
 
 /********************************************************

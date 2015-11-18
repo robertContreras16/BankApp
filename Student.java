@@ -1,8 +1,3 @@
-// Student Name:      Robert Contreras
-// Program Name:      Student Class
-// Date:              11/11/2015
-// Class and Section: IS 2041 Sec # 001
-
 
 // I'm not entirely sure why this was imported...
 import java.lang.String;

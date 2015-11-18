@@ -1,11 +1,3 @@
-//********************************************************************************
-//REMEMBER TO UPDATE YOUR STUDENT CREDENTIALS BEFORE SUBMITTING ONLINE
-//********************************************************************************
-// Student Name:      Robert Contreras
-// Program Name:      BankApp Class
-// Date:              11/11/2015
-// Class and Section: IS 2041 Sec # 001
-
 
 // Import Scanner for read in through keyboard
 import java.util.Scanner; 
